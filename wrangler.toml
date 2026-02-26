@@ -49,4 +49,4 @@ name = "2fa-dev"
 
 [[env.development.kv_namespaces]]
 binding = "SECRETS_KV"
-id = "27891dd17d854dad8de14448763fed4d"
+id = "8920784ca81948adbe328691d154e26a"
